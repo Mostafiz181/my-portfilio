@@ -1,0 +1,19 @@
+.skill-title{
+    font-weight: bold;
+    text-align: center;
+    color: rgba(185, 182, 182, 0.702);
+}
+
+.skill-part{
+    position: relative;
+}
+
+.skill-text{
+   
+    position: absolute;
+    top: 40px;
+    left: 50%;
+    font-weight: bold;
+    color: black;
+    transform: translateX(-50%);
+}

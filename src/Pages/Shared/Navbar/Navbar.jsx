@@ -15,10 +15,10 @@ const Navbar = () => {
         <Link to="Service" className="font-bold uppercase">Service</Link>
       </li>
       <li>
-        <a className="font-bold uppercase" >Portfolio</a>
+        <Link to="Portfolio" className="font-bold uppercase" >Portfolio</Link>
       </li>
       <li>
-        <a className="font-bold uppercase" >Skill</a>
+        <Link to="Skill" className="font-bold uppercase" >Skill</Link>
       </li>
       <li>
         <a className="font-bold uppercase">Contact</a>
