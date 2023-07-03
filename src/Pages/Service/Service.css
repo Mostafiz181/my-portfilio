@@ -1,0 +1,60 @@
+.service-part{
+    position: relative;
+    
+}
+
+.card{
+    background-image: transparent ;
+    transition: .4s;
+
+}
+
+.card:hover{
+    background-image: linear-gradient(to bottom, #08bbf6, #6122ef);
+    color: white;
+
+}
+
+.shape-img{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.service-head{
+    text-align: center;
+    color: rgba(185, 182, 182, 0.702);
+    font-weight: bold;
+ 
+  
+}
+
+.service-title{
+    position: relative;
+}
+
+.service-sub-header {
+    position: absolute;
+    top: 37px;
+    left:50%;
+    transform: translateX(-50%);
+    font-weight: bold;
+}
+
+.font-icon{
+    width: 40px;
+    height: 40px;
+    
+}
+
+.card-body {
+    text-align: center;
+    color: black;
+    transition: .4s;
+}
+
+.card-body:hover{
+    color: white;
+}
+
+
