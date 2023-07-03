@@ -1,9 +1,12 @@
-import React from "react";
+// import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import { AwesomeButton } from "react-awesome-button";
 import "react-awesome-button/dist/styles.css";
 import "./Banner.css";
 import bannerImg from "../../assets/banner img.gif";
+import { Link } from "react-router-dom";
+
+
 
 const Banner = () => {
   return (
@@ -75,9 +78,9 @@ const Banner = () => {
         </p>
 
         <div className="flex flex-col md:flex-row ">
-          <AwesomeButton className="btn btn-cv mt-3 md:mr-3" type="primary">
+          <Link to="https://drive.google.com/file/d/1mm8CnPoj7HpQrVt2nbEKQJJM4PYR4DWV/view?usp=sharing"><AwesomeButton className="btn btn-cv mt-3 md:mr-3" type="primary">
             Download CV
-          </AwesomeButton>
+          </AwesomeButton></Link>
           <AwesomeButton className="btn mt-3" type="primary">
             Hire me
           </AwesomeButton>

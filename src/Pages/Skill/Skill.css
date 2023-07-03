@@ -17,3 +17,10 @@
     color: black;
     transform: translateX(-50%);
 }
+
+.progressbar h2{
+    font-weight: bold;
+    color: black;
+
+}
+
