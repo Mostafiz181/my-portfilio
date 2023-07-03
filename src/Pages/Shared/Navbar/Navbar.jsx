@@ -21,7 +21,7 @@ const Navbar = () => {
         <Link to="Skill" className="font-bold uppercase" >Skill</Link>
       </li>
       <li>
-        <a className="font-bold uppercase">Contact</a>
+        <Link to="Contact" className="font-bold uppercase">Contact</Link>
       </li>
     </>
   );
