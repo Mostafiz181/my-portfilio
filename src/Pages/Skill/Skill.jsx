@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./Skill.css";
 import skillImg from "../../assets/skill.gif";
 import ProgressBar from "@ramonak/react-progress-bar";

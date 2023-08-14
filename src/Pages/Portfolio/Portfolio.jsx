@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./Portfolio.css";
 import port1 from "../../assets/p1.png"
 // import port2 from "../../assets/p2.png"
@@ -35,7 +35,7 @@ const Portfolio = () => {
                 <div className="card-actions justify-start">
                  <Link to="https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-Mostafiz181"> <div className="badge badge-outline">Client-repo</div></Link>
                   <Link to="https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-Mostafiz181"><div className="badge badge-outline">Server-repo</div></Link>
-                 <Link to="https://the-chef-recipe-client.web.app/"> <div className="badge badge-outline">Live Preview</div></Link>
+                 <Link to="https://tubular-puppy-049c60.netlify.app/"> <div className="badge badge-outline">Live Preview</div></Link>
                 </div>
               </div>
             </div>
@@ -51,14 +51,14 @@ const Portfolio = () => {
               </figure>
               <div className="card-body">
                 <h2 className="card-title text-4xl">
-                 Shayaan's Toy
+                 Shayaan Toy Gellary
                  
                 </h2>
-                <p>It's a Toy Market Place website. Here user buy their favorite toys by category.</p>
+                <p>It is a Toy Market Place website. Here user buy their favorite toys by category.</p>
                 <div className="card-actions justify-start">
                   <Link to="https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-Mostafiz181"><div className="badge badge-outline">Client-repo</div></Link>
                  <Link to="https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-Mostafiz181"> <div className="badge badge-outline">Server-repo</div></Link>
-                  <Link to="https://toy-firebase-auth.web.app/"><div className="badge badge-outline">Live Preview</div></Link>
+                  <Link to="https://extraordinary-bienenstitch-c1920b.netlify.app"><div className="badge badge-outline">Live Preview</div></Link>
                 </div>
               </div>
             </div>

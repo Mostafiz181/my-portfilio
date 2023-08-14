@@ -1,13 +1,11 @@
-import React from "react";
+
 import "./Footer.css"
 
 const Footer = () => {
   return (
-    <div>
-      <footer className="footer footer-center p-10 bg-blue-500 text-primary-content">
-        <h2 className="social text-3xl">WhatsApp:+8801303482292</h2>
+    <div id="footer-part" className="bg-blue-500">
+      <h2 className="footer-text ">WhatsApp:+8801303482292</h2>
 
-      </footer>
     </div>
   );
 };
