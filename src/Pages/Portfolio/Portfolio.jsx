@@ -33,7 +33,7 @@ const Portfolio = () => {
                 </h2>
                 <p>Its a Foodies and Goodies Restaurant website. Where user choose any kind of recipe. </p>
                 <div className="card-actions justify-start">
-                 <Link to="https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-Mostafiz181"> <div className="badge badge-outline">Client-repo</div></Link>
+                 <Link to="https://github.com/Mostafiz181/chef-recipe-client"> <div className="badge badge-outline">Client-repo</div></Link>
                   <Link to="https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-Mostafiz181"><div className="badge badge-outline">Server-repo</div></Link>
                  <Link to="https://tubular-puppy-049c60.netlify.app/"> <div className="badge badge-outline">Live Preview</div></Link>
                 </div>
@@ -56,7 +56,7 @@ const Portfolio = () => {
                 </h2>
                 <p>It is a Toy Market Place website. Here user buy their favorite toys by category.</p>
                 <div className="card-actions justify-start">
-                  <Link to="https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-Mostafiz181"><div className="badge badge-outline">Client-repo</div></Link>
+                  <Link to="https://github.com/Mostafiz181/toy-market-client"><div className="badge badge-outline">Client-repo</div></Link>
                  <Link to="https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-Mostafiz181"> <div className="badge badge-outline">Server-repo</div></Link>
                   <Link to="https://extraordinary-bienenstitch-c1920b.netlify.app"><div className="badge badge-outline">Live Preview</div></Link>
                 </div>
